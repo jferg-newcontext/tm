@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Blah blah",
+    "owner": "jferg"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "blah",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
